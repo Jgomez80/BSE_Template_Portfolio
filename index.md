@@ -1,4 +1,4 @@
-﻿# Ifinity Mirror LED Clock
+﻿# Infinity Mirror LED Clock
 My project is to create a Clock using LEDs and reflections. Using coding and engenerring i am able to connect the pieces together and demonstrate that i can create a clock using lights.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
